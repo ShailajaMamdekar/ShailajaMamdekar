@@ -1,3 +1,5 @@
+[![Masterhead](https://media.licdn.com/dms/image/D5612AQGnvJ-ytzyS8w/article-cover_image-shrink_720_1280/0/1691782955217?e=2147483647&v=beta&t=LnzoFi9c9xk6j7Z7MRwDFkJy2_Fad0V7hsJS1PYiMf0)](https://shailajamamdekar.io)
+
 <h1 align="center">Hi 👋, I'm Shailaja Mamdekar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
